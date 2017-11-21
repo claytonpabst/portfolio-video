@@ -64,10 +64,10 @@ class MainHeader extends Component {
                         {/*<ul style={headerName} >Native Instruments</ul>*/}
                     </Link>
                     <div style={navStyle} className='flexRow'>
-                        <Link to='/products' className='GnavTextMedium'>PHOTOGRAPHY</Link>
-                        <Link to='/' className='GnavTextMedium'>VIDEOGRAPHY</Link>
-                        <Link to='/' className='GnavTextMedium'>AUDIO</Link>
-                        <Link to='/' className='GnavTextMedium'>WEBSITE DEVELOPMENT</Link>
+                        <Link to='/products' className='GnavTextMedium'>VIDEO GALLARY</Link>
+                        <Link to='/' className='GnavTextMedium'>PHOTOGRAPHY</Link>
+                        <Link to='/' className='GnavTextMedium'>PRICING</Link>
+                        <Link to='/' className='GnavTextMedium'>ABOUT</Link>
                         <Link to='/' style={{"border":"3px solid black"}} className='contactButton'>CONTACT</Link>
                         {adminProtalLink}
                     </div>

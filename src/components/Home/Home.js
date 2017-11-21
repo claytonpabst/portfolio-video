@@ -12,7 +12,7 @@ class Home extends Component {
 
           <MainHeader/>
           <div className='GpageNameHeader'>
-            <h1>WELCOME</h1>
+            <h1>VIDEOGRAPHY</h1>
           </div> 
 
       </div>
