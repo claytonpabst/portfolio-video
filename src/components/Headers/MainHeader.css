@@ -1,0 +1,23 @@
+.mainHeaderWrapper{
+    height: 70px;
+    width: 100%;
+    /*background: pink;*/
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 0 20px;
+}
+.mainHeaderWrapper ul:hover{
+    border-bottom: 5px solid grey;
+}
+.mainHeaderWrapper div{
+  font-family: 'Spectral SC', serif;
+}
+.contactButton{
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  transition: all .3s;
+}
+.contactButton:hover{
+  background: #99cfe8;
+}
