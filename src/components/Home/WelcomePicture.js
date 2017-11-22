@@ -9,7 +9,7 @@ export default function WelcomePicture(){
       <section className='welcomePictureBackground'></section>
       <div className="welcomePictureText">
         <h1>Hi, I'm Clayton</h1>
-        <h3>and I make videos</h3>
+        <h3>and I'm a videographer</h3>
         <h4>Business/Promotion | Band/Artist | Wedding/First Look | Event</h4>
         <h5 to='/' style={{"border":"3px solid black"}} className='findOutMoreButton'>FIND OUT MORE</h5>
       </div>
